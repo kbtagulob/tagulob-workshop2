@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>tagulob-workshop 2</title>
-	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 <label id="header">Cisco Icons</label><br>
@@ -15,12 +15,12 @@
 	</tr>
 	<tr>
 		<td><label class="iconName">Router: 1841</label></td>
-		<td><img src="img/img1.jpg" height="100px" width="800px"></td>
+		<td><img src="img1.jpg" height="100px" width="800px"></td>
 		<td><p>The Cisco 1841 Integrated Services Router provides two fixed 10/100 (100BASE-TX) Ethernet ports, two integrated High-Speed WAN Interface Card (HWIC) slots that are compatible with WAN Interface Card (WICs) and Voice/WAN Interface Cards (VWICs), and one internal Advanced Integration Module (AIM) slot.</p></td>
 	</tr>
 	<tr>
 		<td><label class="iconName">Router: 1941</label></td>
-		<td><img src="img/img2.jpg" height="100px" width="800px"></td>
+		<td><img src="img2.jpg" height="100px" width="800px"></td>
 		<td><p>The Cisco 1941 Integrated Services Router (ISR) provides 2 integrated 10/100/1000 Ethernet ports, 2 WAN Interface Card (WIC) slots and 1 Internal Services Module slot.</p></td>
 	</tr>
 	<tr>
